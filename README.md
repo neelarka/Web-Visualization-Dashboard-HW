@@ -2,7 +2,7 @@
 
 ## Background
 
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+Data is more powerful when we share it with others! Here in this assigment we have used HTML and CSS to create a dashboard showing off the analysis we've done earlier in one of the past assignment.
 
 ![Images/landingResize.png](Images/landingResize.png)
 
@@ -25,7 +25,7 @@ The website must consist of 7 pages total, including:
   * The table is a bootstrap table component.
   * The data for the table has been exactracted from the `.csv` file as HTML using a csv-to-html table conversion tool, e.g. [ConvertCSV](http://www.convertcsv.com/csv-to-html.htm).
 
-The website must, at the top of every page, have a navigation menu that:
+The website at the top of every page have a navigation menu that:
 
 * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 * Contains a dropdown on the right of the navbar named "Plots" which provides links to each individual visualization page.
