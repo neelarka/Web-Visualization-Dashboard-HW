@@ -9,7 +9,7 @@ Data is more powerful when we share it with others! Here in this assigment we ha
 ![Images/landingResize.png](Images/landingResize.png)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
-The website must consist of 7 pages total, including:
+The website consist of 7 pages total, including:
 
 * A [landing page](#landing-page) containing:
   * An explanation of the project.
